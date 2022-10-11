@@ -39,8 +39,12 @@ a:hover {
 
 header nav ul {
     display: flex; 
+    align-items: center; /* Coloca os itens alinhado no eixo*/
+    justify-content: end; /* Coloca os itens na direita (final)*/
+    font-size: 13px;
 }
 
 header nav ul li {
-    padding: 15px 20px 15px 15px;
+    padding: 10px 15px 10px 10px;
+    
 }
