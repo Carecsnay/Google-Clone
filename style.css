@@ -78,12 +78,12 @@ header nav ul li {
 }
 
 .caixa-de-pesquisa input:hover {
-    box-shadow: 2px 2px 2px 1px #f5f5f5;
+    box-shadow: 2px 2px 2px 1px #d3d3d3;
 }
 
 .search-icon {
     width: 20px;
-    height: 20px;
+    height: 20px; 
 }
 .keyboard-icon {
     width: 19px;
@@ -93,4 +93,24 @@ header nav ul li {
 .mic-icon {
     width: 24px;
     height: 24px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.buttons button {
+    border-radius: 4px;
+    border: 1px solid #f8f9fa;
+    font-size: 16px;
+    padding: 8px 16px;
+    color: #3c4043;
+    margin-right: 10px;
+    background-color: #f5f5f5;
+}
+
+.buttons button:hover {
+    box-shadow: 2px 2px 2px 1px #d3d3d3;
 }
