@@ -83,7 +83,9 @@ header nav ul li {
 
 .search-icon {
     width: 20px;
-    height: 20px; 
+    height: 20px;
+    fill: #9aa0a6;
+    height: 20px;
 }
 .keyboard-icon {
     width: 19px;
@@ -104,7 +106,7 @@ header nav ul li {
 .buttons button {
     border-radius: 4px;
     border: 1px solid #f8f9fa;
-    font-size: 16px;
+    font-size: 14px;
     padding: 8px 16px;
     color: #3c4043;
     margin-right: 10px;
@@ -112,5 +114,8 @@ header nav ul li {
 }
 
 .buttons button:hover {
-    box-shadow: 2px 2px 2px 1px #d3d3d3;
+    /* box-shadow: 2px 2px 2px 1px #d3d3d3; */
+    border: solid 1px #C0C0C0;
+    cursor: pointer;
 }
+
