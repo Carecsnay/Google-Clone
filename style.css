@@ -54,6 +54,12 @@ header nav ul li {
     text-align: center;
 }
 
+.barra-de-pesquisa {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
 .caixa-de-pesquisa {
     padding-top: 20px;
     text-align: center;
