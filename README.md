@@ -23,9 +23,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="Google Clone" src=".github/project1.png" width="100%">
   
   <h3 align="center"> Video de Demonstração</h3>
-  <video width="100%" alt="Google Clone (Demo)" width="100%" controls>
-	  <source src=".github/Google Clone (Demo).mp4" type="video/mp4"/>
-  </video>
+  
+
+https://user-images.githubusercontent.com/53373326/197402841-95ab06b8-1f86-4500-a3ae-34770364cd6c.mp4
+
+
 </p>
 
 ## 🚀 Tecnologias
