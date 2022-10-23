@@ -23,7 +23,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="Google Clone" src=".github/project1.png" width="100%">
   
   <h3 align="center"> Video de Demonstração</h3>
-   https://github.com/Carecsnay/Google-Clone/blob/master/.github/Google%20Clone%20(Demo).mp4
+   ![video](https://github.com/Carecsnay/Google-Clone/blob/master/.github/Google%20Clone%20(Demo).mp4)
 </p>
 
 ## 🚀 Tecnologias
