@@ -62,7 +62,6 @@ header nav ul li {
     height: 92px;
 }
 
-/* MURILO: coloquei uma bordinha e o display flex */
 .barra-de-pesquisa {
     display: flex;
     align-items: center;
@@ -75,12 +74,10 @@ header nav ul li {
     cursor: text;
 }
 
-/* MURILO: ao passar o mouse por cima cria um sombreamento */
 .barra-de-pesquisa:hover{
     box-shadow: 1px 1px 8px 1px #dcdcdc;
   }
 
-  /* MURILO: ao focar no input manter o sombreamento */
   .barra-de-pesquisa:focus-within{
     box-shadow: 1px 1px 8px 1px #dcdcdc;
     outline:none;
@@ -98,13 +95,13 @@ header nav ul li {
     width: 470px;
     font-size:16px;
     outline: none;
-    
   }
 
 .keyboard-icon {
     width: 19px;
     height: 11px;
     cursor: pointer;
+    margin: 6px;
 }
 
 .mic-icon, .cam-icon {
@@ -112,6 +109,8 @@ header nav ul li {
     width: 24px;
     height: 24px;
     cursor: pointer;
+    margin: 6px;
+
 }
 
 .buttons {
@@ -136,3 +135,30 @@ header nav ul li {
     cursor: pointer;
 }
 
+/* fixando o footer embaixo  */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.footer-up, .footer-down {
+    padding: 15px 30px;
+    font-size: 15px;
+    border-bottom: solid 1px rgb(218, 220, 224);
+    background-color: #f4f5f6;
+}
+
+footer a {
+    color: #70757a;
+}
+
+.footer-down {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-down a {
+    padding: 15px 15px 15px 5px;
+    font-size: 14px;
+}
