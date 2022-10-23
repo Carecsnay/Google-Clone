@@ -1,15 +1,12 @@
 <h1 align="center"> Google Clone </h1>
 
-### Link da página: [Clique aqui](https://google-clone-tawny-eta.vercel.app/).
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+### Link da página: [Clique aqui](https://google-clone-tawny-eta.vercel.app/).
 
 <p align="center">
   <h3 align="center"> Logo 01 - Default</h3>
