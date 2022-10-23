@@ -55,6 +55,7 @@ header nav ul li {
     padding-bottom: 20px;
     display: flex;
     justify-content: center;
+    cursor: pointer;
 }
 
 .logo .default {
