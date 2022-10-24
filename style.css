@@ -162,7 +162,16 @@ footer a {
     display: flex;
     justify-content: space-between;
 }
+
+.footer-up {
+    color: #70757a;
+}
+
 .footer-down a {
     padding: 15px 15px 15px 5px;
     font-size: 14px;
+}
+
+.footer-down a:hover {
+    text-decoration: underline;
 }
