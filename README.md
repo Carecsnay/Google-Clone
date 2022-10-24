@@ -6,7 +6,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-### Link da página: [Clique aqui](google-clone-carecsnay.vercel.app).
+### Link da página: [Clique aqui](https://google-clone-carecsnay.vercel.app/).
 
 <p align="center">
   <h3 align="center"> Logo 01 - Default</h3>
